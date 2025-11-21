@@ -99,4 +99,3 @@ Each model is evaluated using:
 ```
 - Real hyperspectral data can be obtained from sources like AVIRIS, Hyperion, or PRISMA
 - The synthetic data generator can be modified to match specific spectral characteristics
-- Model hyperparameters should be tuned for specific applications
